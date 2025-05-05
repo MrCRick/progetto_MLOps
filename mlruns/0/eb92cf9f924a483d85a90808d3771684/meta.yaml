@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/progetto_MLOps/mlruns/0/eb92cf9f924a483d85a90808d3771684/artifacts
+end_time: 1746110365540
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eb92cf9f924a483d85a90808d3771684
+run_name: kindly-mule-130
+run_uuid: eb92cf9f924a483d85a90808d3771684
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746110362207
+status: 3
+tags: []
+user_id: codespace
